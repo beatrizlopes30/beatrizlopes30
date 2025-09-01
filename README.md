@@ -41,5 +41,3 @@ Sistema completo desenvolvido em Java com Spring Boot para gerenciamento de recu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-lopes-3978a3173)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trabalhosdabia@gmail.com)
 ---
-
-⭐️ Do [ana-beatriz](https://github.com/beatrizlopes30)

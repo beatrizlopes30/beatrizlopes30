@@ -11,7 +11,7 @@ Desenvolvedora Java apaixonada por criar soluções eficientes e bem estruturada
 ### Linguagens de Programação
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 ### Frameworks e Bibliotecas
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)

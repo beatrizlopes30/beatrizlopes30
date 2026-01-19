@@ -53,9 +53,8 @@
 <div align="center">
 
 💼 **Disponível para oportunidades e colaborações**  
-📧 **Email:** seuemail@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-🐦 **Twitter:** [@seu_usuario](https://twitter.com/seu_usuario)
+📧 **Email:** beatrizchaa@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/seu-perfil]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/ana-beatriz-lopes-3978a3173/))  
 
 ---
 

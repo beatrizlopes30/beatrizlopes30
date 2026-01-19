@@ -48,7 +48,7 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlopes30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=beatrizlopes30&theme=radical&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beatrizlopes30&theme=radical&hide_border=true&background=0d1117)
 
 </div>
 

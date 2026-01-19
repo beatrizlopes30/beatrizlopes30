@@ -39,9 +39,9 @@
 
 <div align="center">
   
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=beatrizlopes30&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlopes30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical&hide_border=true&background=0d1117)
 

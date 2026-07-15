@@ -39,18 +39,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📊 **GitHub Analytics**
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-black.vercel.app/api?username=beatrizlopes30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-![Most Used Languages](https://github-readme-stats-black.vercel.app/api/top-langs/?username=beatrizlopes30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117) 
-
-</div>
-
----
-
 ## 📫 **Let's Talk!**
 <div align="center">
 

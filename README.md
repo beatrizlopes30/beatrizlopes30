@@ -43,9 +43,9 @@
 
 ## 📊 **GitHub Analytics**
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatrizlopes30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlopes30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=86400)
+  
+![GitHub Stats](https://github-readme-stats-black.vercel.app/api?username=beatrizlopes30&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
+![Most Used Languages](https://github-readme-stats-black.vercel.app/api/top-langs/?username=beatrizlopes30&layout=compact&theme=radical&hide_border=true&bg_color=0d1117) 
 
 </div>
 
